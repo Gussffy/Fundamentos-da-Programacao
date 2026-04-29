@@ -54,10 +54,5 @@ Design patterns são soluções comprovadas e documentadas para problemas recorr
 - Decorator: filtros de stream, cadeias de responsabilidade por composição, componentes decoradores em UI ou processamento.
 - Singleton: classes utilitárias; em Spring Boot, beans gerenciados pelo contêiner já têm escopo singleton por padrão e são preferíveis a singletons manuais.
 
-## Referências
-
-- "Design Patterns: Elements of Reusable Object-Oriented Software" — Gamma et al. (GoF)
-- "Head First Design Patterns" — Freeman & Freeman (abordagem prática)
-- Documentação do Spring (eventos, beans e patterns frequentes)
 
 
