@@ -1,15 +1,17 @@
-# 📚 Fundamentos da Programação
+# Fundamentos da Programação
 
 Este repositório foi criado com a finalidade de guardar meu material de estudos sobre **fundamentos da programação**, **software design** e **arquitetura**.
 
-## 📖 Índice de Tópicos
+## Índice Principal
 
-### 1. [Princípios SOLID](./01-SOLID/PrincipiosSOLID.md)
-- Single Responsibility Principle (SRP)
-- Open/Closed Principle (OCP)
-- Liskov Substitution Principle (LSP)
-- Interface Segregation Principle (ISP)
-- Dependency Inversion Principle (DIP)
+### 1. [Fundamentos de POO](./01-POO/README.md)
+Base para entender classes, objetos, encapsulamento, herança, polimorfismo e relações entre objetos.
+
+### 2. [Princípios SOLID](./02-SOLID/PrincipiosSOLID.md)
+Conjunto de princípios para escrever código mais flexível, coeso e fácil de manter.
+
+### 3. [Design Patterns](./03-DesignPatterns/README.md)
+Padrões de projeto para resolver problemas recorrentes de criação, estrutura e comportamento.
 
 ## Objetivo
 
